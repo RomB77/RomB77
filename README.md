@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data science and machine learning at CYTECH**
 
-- 👨‍💻 All of my projects are available at [*in construction*](*in construction*)
+- 👨‍💻 All of my projects are available on my profile!
 
 - 📫 How to reach me **romain.bowe@gmail.com**
 
